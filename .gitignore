@@ -1,0 +1,15 @@
+/build/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+obj_*/
+obj_dir/
+*.vcd
+*.fst
+*.wlf
+*.db
+*.log
+frames.bin
+gt.npy
+rtl_log*.txt

@@ -1,0 +1,8 @@
+# Preserve the original HDL byte streams and bitstream hashes.
+FPGA_two_boards_20261101/** -text
+docs/evidence/** -text
+*.bit binary
+*.jpg binary
+*.png binary
+*.md text eol=lf
+tools/*.py text eol=lf
